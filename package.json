@@ -17,5 +17,9 @@
   },
   "dependencies": {
     "check-md": "^1.0.2"
+  },
+  "funding": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/<YOUR-COLLECTIVE-SLUG>"
   }
 }
